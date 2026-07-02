@@ -10,4 +10,6 @@ formato `- [Título](arquivo.md) — resumo curto`.
 ## Verbetes
 
 <!-- ADICIONE A LINHA DO SEU VERBETE LOGO ABAIXO DESTA LINHA -->
+
 - [Cantinas: onde comer em cada campus](cantinas.md) — pastel e vitamina no Ipolon I; sábado só no Ipolon II.
+- [Organização: um guia para organização da sua vida de universitário](guia-organizacao.md) — um lugar para organizar as informações facilita a vida
